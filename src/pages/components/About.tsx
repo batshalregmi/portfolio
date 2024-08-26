@@ -43,7 +43,7 @@ const About = () => {
                 GitHub
               </a>
               <a
-                href="https://drive.google.com/file/d/1d2aP-N30bl3kyBnq-I_S4ibY33svdI2T/view?usp=sharing"
+                href="https://drive.google.com/file/d/1K1XDLgsGLEp27bM9Pkmtdn6563Zv5BWk/view?usp=drive_link"
                 className="inline-flex items-center justify-center rounded-md bg-[#1a1a1a] px-6 py-3 text-sm font-medium text-gray-50 shadow-sm transition-colors hover:bg-[#2a2a2a] focus:outline-none focus:ring-2 focus:ring-[#4a4a4a] focus:ring-offset-2"
                 target="_blank"
               >
