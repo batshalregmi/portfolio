@@ -1,0 +1,47 @@
+Batshal Regmi
+regmibatshal@gmail.com | linkedin.com/in/batshal-regmi | github.com/batshalregmi
+Education
+Georgia Institute of Technology Atlanta, GA
+Bachelor of Science, Computer Science, Focus in Cybersecurity & Internetworks Aug. 2023 – May 2026
+Georgia State University Atlanta, GA
+Bachelor of Science, Computer Science Aug. 2022 – May 2023
+Experience
+Product Security Intern May 2025 – August 2025
+Carrier Global Atlanta, GA
+• Collaborated with a 4-member team to develop an automation tool
+• Standardized naming conventions across 5+ security platforms, improving consistency
+• Authored internal security related documentation, improving onboarding for new engineers
+• Supported all functions of a secure software development process
+Undergraduate Student Researcher Aug 2024 – Present
+Georgia Institute of Technology - Vertically Integrated Projects Atlanta, GA
+• Implemented electrical and software systems for a high-altitude balloon launch
+• Enabled accurate data collection at over 70,000 feet
+• Improved safety and increased performance metrics through iterative design
+• Dockerized software stack to ensure a reliable and consistent environment across launches
+• Improved documentation system, streamlining onboarding for new members
+Projects
+Discord Bot | Python, MongoDB, Discord.py, Linux, Heroku
+• Created a Discord bot installed by over 5,000 servers
+• Scaled infrastructure to support 500,000+ active users with fast response times
+• Ensured smooth user experience under heavy load
+• Managed user engagement, moderation, and automation features
+• Regularly updated and maintained project to ensure compatibility with new Discord features
+Homelab | Proxmox, Ubuntu, Nginx, Docker, SSH
+• Built and managed a homelab environment using Proxmox for virtualization
+• Deployed and maintained containerized services and virtual machines for hands-on IT infrastructure learning and
+automation
+Better Spotify Wrapped | Android, Java, Spotify API, Firebase, Git
+• Collaborated on a 6-member team to develop an Android App
+• Developed an enhanced Spotify Wrapped feature that allowed users to view their top tracks, artists, and genres
+• Utilized the Spotify API and implemented a Firebase backend for data storage and user insights
+Game Boy Advanced: Flappy Bird | C, GBA, DMA
+• Developed a version of the popular Flappy Bird game for the Game Boy Advance (GBA) using C
+• Used Direct Memory Access (DMA) to manage game graphics and mechanics without relying on an operating
+system
+• Optimized for smooth gameplay on the GBA hardware by optimizing game for hardware limitations such as screen
+tearing
+Technical Skills
+Programming Languages: Python, Java, C, SQL (MySQL), HTML/CSS
+Relevant Coursework: Networking, Network Security, Information Security, Database Systems, Data Structures &
+Algorithms
+Frameworks/Tools: Linux, Windows, macOS, Docker, Git
